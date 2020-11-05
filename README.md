@@ -1,5 +1,4 @@
 ### Hi there 👋
-___
 
 My name is Eleonora Titarenko and I'm frontend developer.
 
