@@ -23,8 +23,8 @@ My name is Eleonora Titarenko and I'm frontend developer.
     <img src="image/git.svg" width="40">&nbsp;&nbsp;&nbsp;
     <img src="image/github-1.svg" width="40">&nbsp;&nbsp;&nbsp;
     <img src="image/visual-studio-code-1.svg" width="40">&nbsp;&nbsp;&nbsp;
-    <img src="image/figma-1.svg" width="20">&nbsp;&nbsp;&nbsp;
-    <img src="image/zeplin.svg" width="40">
+    <img src="image/figma-1.svg" width="30">&nbsp;&nbsp;&nbsp;
+    <img src="image/zeplin.svg" width="30">
 </p>
 
 ### 💻 My projects:
