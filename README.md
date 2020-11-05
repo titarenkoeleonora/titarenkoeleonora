@@ -28,7 +28,7 @@ My name is Eleonora Titarenko and I'm frontend developer.
 ### 💻 My projects:
 
 | Project name        | See project        | Description          | Technologies  |
-| ------------- | ------------- | ----- |
+| ------------- | ------------- | ------------- | ----- |
 | [What To Watch](https://github.com/titarenkoeleonora/html-academy_what-to-watch-4) | [view deployed project](https://wtw-five.vercel.app/) | Application for watching movies. | TypeScript, React, Redux, Jest, Enzyme, Webpack |
 | [Big Trip](https://github.com/titarenkoeleonora/html-academy-big-trip-11) | [view deployed project](https://big-trip-i5ufel8ee.vercel.app/) | Service for planning big trips. | Vanilla JavaScript (ES6), Chart.js, Moment.js, Flatpickr.js, Webpack |
 | [Kekstagram](https://github.com/titarenkoeleonora/html_academy-kekstagram) | [view deployed project]() | Service for downloading and viewing images. | Vanilla JavaScript (ES5) |
