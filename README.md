@@ -29,9 +29,9 @@ My name is Eleonora Titarenko and I'm frontend developer.
 
 | Project name        | Description          | Technologies  |
 | ------------- | ------------- | ----- |
-| [What To Watch](https://github.com/titarenkoeleonora/html-academy_what-to-watch-4) | Online cinema app with ability to log in, rate, comment and watch movies. | TypeScript, React, Redux, Jest, Enzyme, Webpack |
-| [Big Trip](https://github.com/titarenkoeleonora/html-academy-big-trip-11) | Travellers app that helps to plan your next trip. Choose dates, cities and activities, view statistics and more. | Vanilla JavaScript (ES6), Chart.js, Moment.js, Flatpickr.js, Webpack |
-| [Kekstagram](https://github.com/titarenkoeleonora/html_academy-kekstagram) | Simple "instagram"-like app, where you can view photos, upload your own photos and use CSS-filters on them. | Vanilla JavaScript (ES5) |
+| [What To Watch](https://github.com/titarenkoeleonora/html-academy_what-to-watch-4) | Application for watching movies. | TypeScript, React, Redux, Jest, Enzyme, Webpack |
+| [Big Trip](https://github.com/titarenkoeleonora/html-academy-big-trip-11) | Service for planning big trips. | Vanilla JavaScript (ES6), Chart.js, Moment.js, Flatpickr.js, Webpack |
+| [Kekstagram](https://github.com/titarenkoeleonora/html_academy-kekstagram) | Service for downloading and viewing images. | Vanilla JavaScript (ES5) |
 | [Pink](https://github.com/titarenkoeleonora/html_academy-pink) | Website for a photo application for coloring the gray everyday life. | HTML, SCSS, Vanilla JavaScript (ES5), Gulp |
 | [Sedona](https://github.com/titarenkoeleonora/html_academy-sedona) | Site of a tourist town in Arizona. | HTML, CSS, Vanilla JavaScript (ES5) |
 
