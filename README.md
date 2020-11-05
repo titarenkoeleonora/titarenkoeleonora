@@ -8,14 +8,6 @@ My name is Eleonora Titarenko and I'm frontend developer.
 ⚡ **My professional skills:**
 - Semantic, cross-browser, adaptive website web-development;
 - Pixel Perfect;
-- HTML5;
-- CSS/SCSS;
-- JavaScript (ES5/ES6);
-- TypeScript;
-- React;
-- Redux;
-- Jest, Enzyme;
-- Gulp, Webpack.
 
 <p align="center">
     <img src="image/html-5.svg" width="60">&nbsp;&nbsp;&nbsp;
@@ -34,11 +26,18 @@ My name is Eleonora Titarenko and I'm frontend developer.
     <img src="image/visual-studio-code-1.svg" width="60">&nbsp;&nbsp;&nbsp;
 </p>
 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
+### 💻 My projects:
+
+| Project name        | Description          | Technologies  |
+| ------------- | ------------- | ----- |
+| [What To Watch](https://github.com/titarenkoeleonora/html-academy_what-to-watch-4) | Online cinema app with ability to log in, rate, comment and watch movies. | TypeScript, React, Redux, Jest, Enzyme, Webpack |
+| [Big Trip](https://github.com/titarenkoeleonora/html-academy-big-trip-11) | Travellers app that helps to plan your next trip. Choose dates, cities and activities, view statistics and more. | Vanilla JavaScript (ES6), Chart.js, Moment.js, Flatpickr.js, Webpack |
+| [Kekstagram](https://github.com/titarenkoeleonora/html_academy-kekstagram) | Simple "instagram"-like app, where you can view photos, upload your own photos and use CSS-filters on them. | Vanilla JavaScript (ES5) |
+| [Pink](https://github.com/titarenkoeleonora/html_academy-pink) | Website for a photo application for coloring the gray everyday life. | HTML, SCSS, Vanilla JavaScript (ES5), Gulp |
+| [Sedona](https://github.com/titarenkoeleonora/html_academy-sedona) | Site of a tourist town in Arizona. | HTML, CSS, Vanilla JavaScript (ES5) |
 
 
--->
+📫 How to reach me:
+<p>
+    e-mail: <a href="mailto:yaroslavnaella@gmail.com">yaroslavnaella@gmail.com</a>
+</p>
