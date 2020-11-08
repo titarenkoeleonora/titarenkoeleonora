@@ -8,11 +8,6 @@ My name is Eleonora Titarenko and I'm frontend developer.
 - Semantic, cross-browser, adaptive website web-development;
 - Pixel Perfect;
 
-✏ **Studying now:**
-- TypeScript;
-- React;
-- Redux;
-
 <p align="center">
     <img src="image/html-5.svg" width="40">&nbsp;&nbsp;
     <img src="image/css-5.svg" width="40">&nbsp;&nbsp;
@@ -30,6 +25,9 @@ My name is Eleonora Titarenko and I'm frontend developer.
     <img src="image/figma-1.svg" width="30">&nbsp;&nbsp;
     <img src="image/zeplin.svg" width="50">
 </p>
+
+✏ **Studying now:**
+- TypeScript;
 
 ### 💻 My projects:
 
