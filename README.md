@@ -8,7 +8,7 @@ My name is Eleonora Titarenko and I'm frontend developer.
 - Semantic, cross-browser, adaptive website web-development;
 - Pixel Perfect;
 
- **Studying now:**
+✏ **Studying now:**
 - TypeScript;
 - React;
 - Redux;
