@@ -39,7 +39,7 @@ My name is Eleonora Titarenko and I'm frontend developer.
 | [Big Trip](https://github.com/titarenkoeleonora/html-academy-big-trip-11) | [view deployed project](https://big-trip-i5ufel8ee.vercel.app/) | Service for planning big trips. | Vanilla JavaScript (ES6), Chart.js, Moment.js, Flatpickr.js, Webpack |
 | [Kekstagram](https://github.com/titarenkoeleonora/html_academy-kekstagram) | [view deployed project](https://titarenkoeleonora.github.io/html_academy-kekstagram/) | Service for downloading and viewing images. | Vanilla JavaScript (ES5) |
 | [Pink](https://github.com/titarenkoeleonora/html_academy-pink) |  | Website for a photo application for coloring the gray everyday life. | HTML, SCSS, Vanilla JavaScript (ES5), Gulp |
-| [Sedona](https://github.com/titarenkoeleonora/html_academy-sedona) | [view deployed project](https://titarenkoeleonora.github.io/html_academy-sedona/index.html) | Site of a tourist town in Arizona. | HTML, CSS, Vanilla JavaScript (ES5) |
+| [Sedona](https://github.com/titarenkoeleonora/html_academy-sedona) (my first project) |  | Site of a tourist town in Arizona. | HTML, CSS, Vanilla JavaScript (ES5) |
 
 
 📫 How to reach me:
