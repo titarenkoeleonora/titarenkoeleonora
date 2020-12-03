@@ -36,6 +36,7 @@ My name is Eleonora Titarenko and I'm frontend developer.
 | Project name        | See project        | Description          | Technologies  |
 | ------------- | ------------- | ------------- | ----- |
 | [What To Watch](https://github.com/titarenkoeleonora/html-academy_what-to-watch-4) | [view deployed project](https://wtw-five.vercel.app/) | Application for watching movies. | React, Redux, Jest, Enzyme, Webpack |
+| ["Залепись цена" в Дикси](https://github.com/titarenkoeleonora/test-merkury) | [view deployed project](https://test-merkury.vercel.app/) | Promotional page of the action in the Dixy chain of stores. (Completed as part of the test task) | HTML, SCSS, React |
 | [Big Trip](https://github.com/titarenkoeleonora/html-academy-big-trip-11) | [view deployed project](https://big-trip-i5ufel8ee.vercel.app/) | Service for planning big trips. | Vanilla JavaScript (ES6), Chart.js, Moment.js, Flatpickr.js, Webpack |
 | [Kekstagram](https://github.com/titarenkoeleonora/html_academy-kekstagram) | [view deployed project](https://titarenkoeleonora.github.io/html_academy-kekstagram/) | Service for downloading and viewing images. | Vanilla JavaScript (ES5) |
 | [Pink](https://github.com/titarenkoeleonora/html_academy-pink) | [view deployed project](https://pink-nine.vercel.app/index.html) | Website for a photo application for coloring the gray everyday life. | HTML, SCSS, Vanilla JavaScript (ES5), Gulp |
