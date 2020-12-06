@@ -1,4 +1,5 @@
 ### Hi there 👋
+[Download resume](https://yadi.sk/d/zJMNNh3zNJCJ3Q)
 
 My name is Eleonora Titarenko and I'm frontend developer.
 
