@@ -35,7 +35,7 @@ My name is Eleonora Titarenko and I'm frontend developer.
 | Project name        | Deployed project        | Description          | Technologies  |
 | ------------- | ------------- | ------------- | ----- |
 | [What To Watch](https://github.com/titarenkoeleonora/html-academy_what-to-watch-4) | [I want to see](https://wtw-five.vercel.app/) | Application for watching movies. | React, Redux, Jest, Enzyme, Webpack |
-| ["Залепись цена" в Дикси](https://github.com/titarenkoeleonora/test-merkury) | [I want to see](https://test-merkury.vercel.app/) | Promotional page of the action in the Dixy chain of stores. (Completed as part of the test task) | HTML, SCSS, React |
+| [Promotional page Дикси](https://github.com/titarenkoeleonora/test-merkury) | [I want to see](https://test-merkury.vercel.app/) | Promotional page of the action in the Dixy chain of stores. (Completed as part of the test task) | HTML, SCSS, React |
 | [Калькулятор накоплений](https://github.com/titarenkoeleonora/test_vc.ru) | [I want to see](https://titarenkoeleonora.github.io/test_vc_deploy/) | Responsive page with savings calculator. (Completed as part of the test task) | HTML, SCSS, JavaScript (ES6), Webpack |
 | [Big Trip](https://github.com/titarenkoeleonora/html-academy-big-trip-11) | [I want to see](https://big-trip-i5ufel8ee.vercel.app/) | Service for planning big trips. | Vanilla JavaScript (ES6), Chart.js, Moment.js, Flatpickr.js, Webpack |
 | [Kekstagram](https://github.com/titarenkoeleonora/html_academy-kekstagram) | [I want to see](https://titarenkoeleonora.github.io/html_academy-kekstagram/) | Service for downloading and viewing images. | Vanilla JavaScript (ES5) |
