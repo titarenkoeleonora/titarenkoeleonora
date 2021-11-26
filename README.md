@@ -2,8 +2,6 @@
 
 My name is Eleonora Titarenko and I'm frontend developer.
 
-🌱 I am an HTML academy graduate by profession as a React-developer.
-
 ⚡ **My professional skills:**
 - Semantic, cross-browser, adaptive website web-development;
 - Pixel Perfect;
@@ -27,8 +25,7 @@ My name is Eleonora Titarenko and I'm frontend developer.
 
 ✏ **Studying now:**
 - TypeScript;
-- React;
-- Redux;
+- Node.js;
 
 ### 💻 My projects:
 
