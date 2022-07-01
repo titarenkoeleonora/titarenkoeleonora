@@ -41,5 +41,5 @@ My name is Eleonora Titarenko and I'm frontend developer.
 
 📫 How to reach me:
 <p>
-    e-mail: <a href="mailto:titarenkoeia@yandex.ru">titarenkoeia@yandex.ru</a>
+    e-mail: <a href="mailto:titarenkoeia@yandex.ru">titarenkoeia@gmail.com</a>
 </p>
