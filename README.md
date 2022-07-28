@@ -15,6 +15,7 @@ My name is Eleonora Titarenko and I'm frontend developer.
     <img src="image/react-seeklogo.com.svg" width="50">&nbsp;&nbsp;
     <img src="image/redux-seeklogo.com.svg" width="50">&nbsp;&nbsp;
     <img src="image/jest-0.svg" width="40">&nbsp;&nbsp;
+    <img src="image/react-testing-library.png" width="40">&nbsp;&nbsp;
     <img src="image/npm-node-package-manager.svg" width="40">&nbsp;&nbsp;
     <img src="image/gulp.svg" width="20">&nbsp;&nbsp;
     <img src="image/webpack.svg" width="40">&nbsp;&nbsp;
