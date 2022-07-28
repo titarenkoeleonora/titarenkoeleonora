@@ -10,7 +10,7 @@ My name is Eleonora Titarenko and I'm frontend developer.
     <img src="image/html-5.svg" width="40">&nbsp;&nbsp;
     <img src="image/css-5.svg" width="40">&nbsp;&nbsp;
     <img src="image/sass-1.svg" width="50">&nbsp;&nbsp;
-    <img src="image/styled-components.png" width="50">&nbsp;&nbsp;
+    <img src="image/styled-component.png" width="50">&nbsp;&nbsp;
     <img src="image/javascript-4.svg" width="40">&nbsp;&nbsp;
     <img src="image/react-seeklogo.com.svg" width="50">&nbsp;&nbsp;
     <img src="image/redux-seeklogo.com.svg" width="50">&nbsp;&nbsp;
