@@ -28,7 +28,6 @@ My name is Eleonora Titarenko and I'm frontend developer.
 </p>
 
 ✏ **Studying now:**
-- TypeScript;
 - Node.js;
 
 ### 💻 My projects:
