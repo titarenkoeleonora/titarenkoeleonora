@@ -34,8 +34,8 @@ My name is Eleonora Titarenko and I'm frontend developer.
 
 | Project name        | Deployed project        | Description          | Technologies  |
 | ------------- | ------------- | ------------- | ----- |
+| [Elegram](https://github.com/titarenkoeleonora/elegram-frontend) | [I want to see](https://elegram-frontend.vercel.app/) | Just simple messenger. | React, Redux, TypeScript, styled-components |
 | [Oh my Dog!](https://github.com/titarenkoeleonora/oh-my-dog) | [I want to see](https://oh-my-dog.vercel.app/) | A funny single-page application where users can upload a picture of a dog and see a gallery of pictures of dogs of the same breed. | React, TypeScript, styled-components, Jest |
-| [Auto test runner](https://github.com/titarenkoeleonora/auto-test-runner) | [I want to see](https://auto-test-runner.vercel.app/) | An automated test runner that executes tests in the browser and reports on their results as soon as each test has completed. | React, TypeScript, styled-components, Jest |
 | [What To Watch](https://github.com/titarenkoeleonora/html-academy_what-to-watch-4) | [I want to see](https://wtw-five.vercel.app/) | Application for watching movies. | React, Redux, Jest, Enzyme, Webpack |
 | [Kekstagram](https://github.com/titarenkoeleonora/html_academy-kekstagram) | [I want to see](https://titarenkoeleonora.github.io/html_academy-kekstagram/) | Service for downloading and viewing images. | Vanilla JavaScript (ES5) |
 | [Savings calculator](https://github.com/titarenkoeleonora/test_vc.ru) | [I want to see](https://titarenkoeleonora.github.io/test_vc_deploy/) | Responsive page with savings calculator. (Completed as part of the test task) | HTML, SCSS, JavaScript (ES6), Webpack |
